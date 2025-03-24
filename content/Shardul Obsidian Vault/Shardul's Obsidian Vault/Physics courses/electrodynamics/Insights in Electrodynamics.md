@@ -1,0 +1,1 @@
+- A charge from outside has no effect on a gaussian surface in terms of generating flux
